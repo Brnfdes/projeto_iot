@@ -2,6 +2,7 @@ import machine
 import time
 import dht
 from conexao_wifi import conecta
+import urequests
 
 r = machine.Pin(2,machine.Pin.OUT)
 d = dht.DHT11(machine.Pin(4))
