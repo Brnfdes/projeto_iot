@@ -6,7 +6,8 @@ O objetivo do projeto é criar uma estação metereológica, configurando o sens
 * Configuração do sensor de temperatura e umidade
 * conexão da estação à internet
 
-**Requisitos do sistema**
+**Requisitos do sistema**:
+
 As configurações foram aplicadas seguindo as seguintes condições:
 •	Monitorar a temperatura e a umidade por meio do DHT11, imprimindo as informações na tela do computador. 
 •	Adicionar ao código ações para ligar o relé caso ocorra qualquer das condições a seguir. Basta que uma das condições seja verdadeira para que o relé seja ligado. 
