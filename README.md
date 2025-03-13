@@ -20,6 +20,8 @@ Umidade relativa do ar > 70%
 
 Caso nenhuma das condições esteja presente, o relé deve ser desligado.
 
+Os resultados obtidos podem ser acessados em: https://thingspeak.com/channels/2112338
+Vídeo do funcionamento do sistema: https://www.youtube.com/watch?v=xkPeEpb7D0I
 ----- 
 
 > Projeto apresentado para a disciplina de Fundamentos de Internet das Coisas do curso de BigData e Inteligência Analítica da PUCPR
