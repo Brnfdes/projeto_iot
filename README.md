@@ -20,7 +20,7 @@ Umidade relativa do ar > 70%
 
 Caso nenhuma das condições esteja presente, o relé deve ser desligado.
 
------ 
+--
 
 Os resultados obtidos podem ser acessados em: https://thingspeak.com/channels/2112338
 
